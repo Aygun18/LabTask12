@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\bin\Debug\net6.0\LabTask12.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\bin\Debug\net6.0\LabTask12.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\bin\Debug\net6.0\LabTask12.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\bin\Debug\net6.0\LabTask12.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\bin\Debug\net6.0\LabTask12.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\refint\LabTask12.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\LabTask12.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\LabTask12\obj\Debug\net6.0\ref\LabTask12.dll
